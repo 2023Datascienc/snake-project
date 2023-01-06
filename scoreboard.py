@@ -1,3 +1,9 @@
+"""
+
+This is just a simple Snake Game
+
+
+"""
 from turtle import Turtle
 ALIGNMENT = "center"
 FONT = ("Courier", 24, "normal")
